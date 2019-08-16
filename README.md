@@ -1,9 +1,9 @@
 # README
 
-##Purpose:
+## Purpose:
 This is a repo of all my Katas and excersizes I've worked on to sharpen my skills while in my early days at MYOB.
 
-###Katas:
+### Katas:
 Here are the Katas I've worked on, in order:
 * FizzBuzz - Prints numbers 1-100, and if the number is divisible by 3 it prints Fizz, 5 it prints Buzz and both it prints FizzBuzz.
 * ABC Blocks - Takes a string and compares against a set of 20 ABC blocks to see if you can build the word.
