@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c6171ee-0846-46dc-a988-4cf1e96339f7" name="Default Changelist" comment="" />
+    <list default="true" id="5c6171ee-0846-46dc-a988-4cf1e96339f7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ABC/ABC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ABC/ABC.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,11 +28,32 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/BlackJack/BlackJack.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="42">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="315">
+                <caret line="10" column="57" lean-forward="true" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/BlackJack/PackOfCards.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -53,8 +79,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/ABC/ABC.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="132" column="1" lean-forward="true" selection-start-line="132" selection-start-column="1" selection-end-line="132" selection-end-column="1" />
+            <state relative-caret-position="417">
+              <caret line="137" column="45" selection-start-line="137" selection-start-column="45" selection-end-line="137" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -67,6 +93,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -81,6 +110,7 @@
         <option value="$PROJECT_DIR$/src/com/FizzBuzz/FizzBuzz.java" />
         <option value="$PROJECT_DIR$/src/com/MagicCalculator/MagicCalculator.java" />
         <option value="$PROJECT_DIR$/src/com/ABC/ABC.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -90,6 +120,7 @@
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -115,6 +146,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JavaKatas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaKatas" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="BlackJack" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -122,12 +160,18 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -203,27 +247,28 @@
       <updated>1565326890959</updated>
       <workItem from="1565326895264" duration="34046000" />
       <workItem from="1565662626055" duration="18485000" />
-      <workItem from="1565931317971" duration="293000" />
+      <workItem from="1565931317971" duration="1893000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52824000" />
+    <option name="totallyTimeSpent" value="54424000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1003" y="-1080" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22257721" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22257721" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection Results" visible="true" weight="0.32997987" />
+      <window_info anchor="bottom" id="Inspection Results" weight="0.32997987" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30784708" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30784708" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39937758" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -275,13 +320,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ABC/ABC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="132" column="1" lean-forward="true" selection-start-line="132" selection-start-column="1" selection-end-line="132" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/MagicCalculator/MagicCalculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
@@ -293,6 +331,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="42">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/BlackJack/PackOfCards.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ABC/ABC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="417">
+          <caret line="137" column="45" selection-start-line="137" selection-start-column="45" selection-end-line="137" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="315">
+            <caret line="10" column="57" lean-forward="true" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

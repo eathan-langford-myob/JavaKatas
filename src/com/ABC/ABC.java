@@ -136,9 +136,5 @@ public static String arrStringConvert(String[] arr){
         ArrayList<String[]> blockCollection = buildBlocks();
         String word = getInput();
         letterChecker(blockCollection, word);
-
-        int i=1;
-        for (String[] block : blockCollection) {
-        }
     }
 }
