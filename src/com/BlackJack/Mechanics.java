@@ -121,7 +121,7 @@ static int ACETHRESHOLD = 10;
         //IF PLAYER HAS LESS THAN 2 CARDS, DEAL 2, ELSE DEAL 1.
 
         Cards cardFromDeck1 = deck.get(0);
-        Cards cardFromDeck2 = deck.get(0);
+        Cards cardFromDeck2 = deck.get(1);
 
         if(user.cardsHolding.size()<2){
             user.cardsHolding.add(cardFromDeck1);
@@ -131,6 +131,9 @@ static int ACETHRESHOLD = 10;
 
             System.out.printf("\n%s is dealt 2 cards.", user.name);
             System.out.printf("\n %s got %s%s and %s%s\n", user.name, cardFromDeck1.card,cardFromDeck1.symbol, cardFromDeck2.card,cardFromDeck2.symbol);
+            deck.remove(0);
+            deck.remove(0);
+
         }else{
             System.out.printf("%s is dealt 1 card.\n", user.name);
             System.out.printf("\n %s got %s%s\n", user.name, cardFromDeck1.card, cardFromDeck1.symbol);
